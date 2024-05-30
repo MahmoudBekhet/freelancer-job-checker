@@ -1,0 +1,9 @@
+{
+  "search_query": "python",
+  "base_url": "https://www.freelancer.com",
+  "interval_page" : 10,
+  "interval" : 60,
+  "min_budget" : 0,
+  "max_budget" : 500
+}
+
